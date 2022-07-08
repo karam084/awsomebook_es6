@@ -42,7 +42,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-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
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
