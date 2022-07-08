@@ -2,11 +2,15 @@
 
 This project based on the linter configuration. setup project built with html, css and javascript
 
-![image](https://user-images.githubusercontent.com/31547587/153085428-e5240a86-f0f9-41ec-aa9c-c43d721415ce.png)
+![Screenshot](https://user-images.githubusercontent.com/77942746/178022730-9e4c22ce-3a62-4548-b2f1-23666e6acbe3.png)
+
+![Screenshot](https://user-images.githubusercontent.com/77942746/178022857-75dfd4d4-d7f9-4165-95ad-8d6b2bb4e1d2.png)
+
+![Screenshot](https://user-images.githubusercontent.com/77942746/178022912-2cd3858d-c8d8-48a0-85df-36adbb86c291.png)
 
 ## Built With
 
-- HTML, CSS, and JavaScript
+- HTML, CSS, and JavaScript and luxon.js package
 
 ## Getting Started
 
@@ -28,7 +32,7 @@ Have fun!
 
 👤 **Karam Fouad**
 
-- GitHub: [@githubhandle](https://github.com/Karam084)
+- GitHub: [@karam084](https://github.com/Karam084)
 
 ## 🤝 Contributing
 
