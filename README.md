@@ -28,6 +28,10 @@ Open the terminal comand line window
 Open the index.html file with any browser
 Have fun!
 
+- For this requirement you should use a library Luxon
+- Download the script and save it to your project.
+- Import it as a module.
+
 ## Authors
 
 👤 **Karam Fouad**
