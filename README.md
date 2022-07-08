@@ -1,42 +1,34 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awsome Books ES6
 
-# Project Awesome books
+This project based on the linter configuration. setup project built with html, css and javascript
 
-> In this project, we build a basic website that allows users to add/remove books from a list, using JavaScript objects and arrays.
+![image](https://user-images.githubusercontent.com/31547587/153085428-e5240a86-f0f9-41ec-aa9c-c43d721415ce.png)
 
 ## Built With
 
-- JavaScript
-- HTML 
-- CSS
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML, CSS, and JavaScript
 
 ## Getting Started
 
-**To get a local copy up and enter the project's interface as a final product follow these steps.**
-> clone this repository in your local machine
-> make index.html run in a browser
-> all other files for styling and animation are linked to html file.
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+To get a local copy up and running follow these simple example steps.
+
+### Setup
+
+To have a local copy of this project, follow theese simple steps:
+
+Open the terminal comand line window
+`https://github.com/karam084/awsomebook_es6`
+Open the index.html file with any browser
+Have fun!
 
 ## Authors
 
-👤 **Andrea Alvarez**
-
-
-- GitHub: [@Alondra87](https://github.com/Alondra87)
-- Twitter: @AndreaA07211436
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andrea-a-384903224/)
-
 👤 **Karam Fouad**
 
-- GitHub: [@karam084](https://github.com/karam084)
-- Twitter: @ElarabFouad
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Karam084)
 
 ## 🤝 Contributing
 
@@ -46,8 +38,15 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
+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
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
-This project is [MIT] licensed.
+This project is [MIT](./MIT.md) licensed.
